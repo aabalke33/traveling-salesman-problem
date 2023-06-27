@@ -1,6 +1,10 @@
 # traveling-salesman-problem
 This is a Nearest Neighbor implementation for the Traveling Salesman Problem. It includes a custom-built Hash Table function, and Object Oriented patterns for Package, and Travelers  (Trucks).
 
+## Youtube Video Breakdown
+
+[<img src="https://user-images.githubusercontent.com/22086435/249031780-2128d8d6-9360-4701-8484-cdacb82ab20a.jpg" width="50%">](https://www.youtube.com/watch?v=30iPiAMeQK8)
+
 ## Prompt
 A Parcel Service needs to determine the best route and delivery distribution for their Daily Local Deliveries. The route has three trucks, two drivers, and an average of 40 packages to deliver each day; each package has specific criteria and delivery requirements. Your task is to write code that determines and presents a solution delivering all 40 packages on time, according to their criteria while reducing the total number of miles traveled by the trucks.
 
